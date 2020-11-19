@@ -22,3 +22,23 @@ for each board) are stored in data/ex1.mat. You are asked to
       * projected points without correction of the distortion in red
 
       * projected points with correction of the radial distortion (k1, k2 and k5) in green
+
+
+
+
+## Results for Distorted and Undistorted Images
+
+        
+### &nbsp;    &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  Distorted Image &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;    &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp; Undistorted Image   
+
+<img src="./Results/Distorted/00000.jpg" width="425"/>         <img src="./Results/Undistorted/00000.jpg" width="425"/> 
+
+<img src="./Results/Distorted/00005.jpg" width="425"/>         <img src="./Results/Undistorted/00005.jpg" width="425"/> 
+
+<img src="./Results/Distorted/00010.jpg" width="425"/>         <img src="./Results/Undistorted/00010.jpg" width="425"/> 
+
+<img src="./Results/Distorted/00015.jpg" width="425"/>         <img src="./Results/Undistorted/00015.jpg" width="425"/> 
+
+<img src="./Results/Distorted/00020.jpg" width="425"/>         <img src="./Results/Undistorted/00020.jpg" width="425"/>
+
+<img src="./Results/Distorted/00023.jpg" width="425"/>         <img src="./Results/Undistorted/00023.jpg" width="425"/> 
