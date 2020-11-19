@@ -17,5 +17,5 @@ b. Write a function project_and_draw that takes an image and projects and draws 
               
               
 c. In your report, show the first image with the following information:
-            - projected points without correction of the distortion in red
-            - projected points with correction of the radial distortion (k1, k2 and k5) in green
+             * projected points without correction of the distortion in red
+             * projected points with correction of the radial distortion (k1, k2 and k5) in green
