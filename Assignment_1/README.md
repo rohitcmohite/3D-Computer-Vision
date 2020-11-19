@@ -17,5 +17,5 @@ for each board) are stored in data/ex1.mat. You are asked to
               
               
 3. In your report, show the first image with the following information:
-             * projected points without correction of the distortion in red
+             Markup: * projected points without correction of the distortion in red
              * projected points with correction of the radial distortion (k1, k2 and k5) in green
